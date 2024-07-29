@@ -1,0 +1,2 @@
+adapter.Image
+adapter.LegacyImage
